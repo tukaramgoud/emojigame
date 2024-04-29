@@ -1,0 +1,12 @@
+/* Write your code here. */
+.app-container {
+  min-height: 100vh;
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+}
+.emoji-game {
+  margin: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  display: flex;
+  flex-wrap: wrap;
+}

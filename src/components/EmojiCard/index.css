@@ -1,0 +1,12 @@
+/* Write your code here. */
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: #ffffff33;
+  border-radius: 10px;
+  margin: 10px;
+  width: 400px;
+}
